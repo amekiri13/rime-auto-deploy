@@ -1,0 +1,7 @@
+---
+name: rime_ice.extended
+version: "1"
+sort: by_weight
+import_tables:
+  - moegirl
+...
